@@ -1,0 +1,11 @@
+{
+  "name": "big-o-quest",
+  "version": "1.0.0",
+  "description": "A pixel-art game for learning Big-O complexity through five small challenges.",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "test": "node --test",
+    "start": "python -m http.server 8000"
+  }
+}
